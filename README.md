@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time working with Swift, but I was very familiar with Xcode. Although the language was unfamiliar, it was very easy to understand, and I got the hang of it very fast. It was fun creating this app, and it sparked a lot of excitement for the things that I could create with it. I definitely will be working more with Swift and learning more about Ios Development.
 
 ## License
 
